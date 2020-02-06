@@ -1,8 +1,9 @@
-functionSetup() {
+function setup() {
     createCanvas(windowWidth,windowHeight)
-    background("white")
+    background("pink")
     createP("My Lucky Number is")
 }
-functionDraw() {
+
+function draw() {
 
 }
